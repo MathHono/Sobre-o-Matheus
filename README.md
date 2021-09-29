@@ -1,7 +1,8 @@
 ##### HELLO WORLD🌎#####
 
  - Eu sou o Matheus, tenho 22 anos, sou Brasileiro 💚💛💙 ! 
- - Estudante de Análise e Desenvolvimento de Sistemas, me encontro no 2º período de 5. 
+ - Estudante de Análise e Desenvolvimento de Sistemas, me encontro no 2º período de 5.
+ - Procuro Estágio na área de desenvolvimento e programação de softwares. 
  - Sou recém ingressante na Área, dá para se-dizer que, migrei pra TI e acabei me apaixonando. Foi amor a primeira vista! Estou fascinado pela área de desenvolvimento 
 e todas as possibilidades que a mesma carrega. 💻📶 
  - Me considero um profissional determinado, que não medirá esforços em buscar sempre aprender mais sobre as inovações técnológica na área. Tenho muita facilidade com diálogo, 
